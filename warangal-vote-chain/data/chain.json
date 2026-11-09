@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-11-09T07:18:20.213Z",
+    "data": {
+      "type": "GENESIS",
+      "note": "Warangal election ledger"
+    },
+    "previousHash": "0",
+    "nonce": 8493,
+    "hash": "000fb89fbd71117146b54648312386258e71b3622cfbc6d74723c269b70ad120"
+  }
+]

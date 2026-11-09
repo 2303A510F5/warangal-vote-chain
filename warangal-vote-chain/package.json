@@ -1,0 +1,9 @@
+{
+  "name": "warangal-vote-chain",
+  "version": "1.0.0",
+  "description": "Blockchain based voting machine for Warangal West and Warangal East (no external dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
